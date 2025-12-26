@@ -8,7 +8,7 @@ An interactive Power BI dashboard analyzing trends in the data job market from 2
 
 ## Introduction
 
-Understanding the data job market can be challenging; job postings are spread across multiple platforms, role titles vary widely, and salary information is often inconsistent or difficult to compare. This Power BI dashboard was created to bring clarity to that complexity by consolidating key job market insights into a single, interactive experience.
+Understanding the data job market can be challenging, job postings are spread across multiple platforms, role titles vary widely, and salary information is often inconsistent or difficult to compare. This Power BI dashboard was created to bring clarity to that complexity by consolidating key job market insights into a single, interactive experience.
 
 Using a real-world dataset of **data science job postings from 2023 to July 2025** (including job titles, salaries, and locations) provided by **Luke Barousse** in his [Power BI Course](https://www.lukebarousse.com/powerbi), this dashboard enables users to explore hiring demand, compensation trends, and role-specific patterns across the global data job landscape.
 
