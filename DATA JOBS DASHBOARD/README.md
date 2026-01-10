@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing trends in the data job market from 2023 to July 2025, including roles, salaries, locations, and work patterns.
 
 
-![Data Jobs Dashboard Demo](Images/dashboard%201.gif)
+![Data Jobs Dashboard Demo](./Images/Dashboard%201.gif?raw=1)
 
 
 ## Introduction
@@ -60,7 +60,7 @@ This page acts as the main entry point to the dashboard, offering a snapshot of 
 Users can quickly compare demand and compensation across different data roles, identify salary patterns, and gain a broad understanding of how the market is evolving. The layout is designed to be visually clear and easy to interpret, enabling fast insight generation at a glance.
 
 ### Page 2: Job Title Drill-Through Analysis
-![Job Title Drill-Through Analysis](Images/Project%201%20Page%202.png)
+![Job Title Drill-Through Analysis](./Images/Project%201%20page%202.png?raw=1)
 
 The second page is a dedicated drill-through view that allows users to explore detailed insights for a selected job title directly from the main dashboard.
 
