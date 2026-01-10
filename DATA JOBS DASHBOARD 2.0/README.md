@@ -25,6 +25,14 @@ Using a real-world dataset of data science job postings from **2023 to June 2025
 
 This version represents a significant upgrade over **Dashboard 1.0**, incorporating structured Power Query transformations, explicit DAX measures, improved UX design, and dynamic metric switching.
 
+
+## Dashboard File
+🔗 View Interactive Dashboard (Power BI Service)  
+https://app.powerbi.com/links/d7EXjXrqUO
+
+ℹ️ Note: Requires Microsoft account for interactive access.  
+Full dashboard walkthrough and insights are demonstrated above via GIF previews.
+
 ---
 
 ## 🖥️ Dashboard Overview (Version 2.0)
