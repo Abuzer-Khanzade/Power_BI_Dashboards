@@ -1,6 +1,6 @@
 # 📊 Data Jobs Dashboard 2.0 (Power BI)
 
-An interactive Power BI dashboard analysing trends in the global data job market from **2023 to June 2025**, covering job demand, skill requirements, and compensation patterns across data roles.
+An interactive Power BI dashboard analysing trends in the global data job market from **2023 to July 2025**, covering job demand, skill requirements, and compensation patterns across data roles.
 
 ![Data Jobs Dashboard 2.0](../DATA%20JOBS%20DASHBOARD/Images/Dashboard%202.gif)
 
