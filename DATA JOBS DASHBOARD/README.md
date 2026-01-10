@@ -70,4 +70,4 @@ This page includes information such as salary ranges, job type distribution, wor
 
 This project demonstrates how Power BI can be used to transform raw job posting data into meaningful, interactive insights. By combining data cleaning, analytical measures, thoughtful visual design, and interactivity, the dashboard provides a clear and structured view of the data job market.
 
-Beyond the insights themselves, this project represents a valuable step in strengthening my Power BI and data analysis skills. It reflects my ability to design an end-to-end analytical report that supports real-world decision-making and delivers insights in a clear, user-focused manner—particularly for individuals exploring or navigating a career in data.
+Beyond the insights themselves, this project represents a valuable step in strengthening my Power BI and data analysis skills. It reflects my ability to design an end-to-end analytical report that supports real-world decision-making and delivers insights in a clear, user-focused manner particularly for individuals exploring or navigating a career in data.
