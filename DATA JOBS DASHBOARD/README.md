@@ -53,7 +53,7 @@ This project provided hands-on experience across the full workflow of building a
 The dashboard is structured into **two pages**, each designed to serve a specific analytical purpose—providing both a high-level market summary and a detailed, role-specific deep dive.
 
 ### Page 1: High-Level Market Overview
-![Data Jobs Dashboard Demo](./Images/Dashboard%201.gif?raw=1)
+![High-Level Market Overview](./Images/Project%201%20page%201.png?raw=1)
 
 This page acts as the main entry point to the dashboard, offering a snapshot of the overall data job market. It highlights key performance indicators such as total job postings, median yearly and hourly salaries, and trends over time.
 
