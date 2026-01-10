@@ -38,6 +38,10 @@ This version focuses on understanding the dataset and building core Power BI ski
 📘 **Project details:**  
 ➡️ [View Data Jobs Dashboard (V1) – README](DATA%20JOBS%20DASHBOARD/README.md)
 
+📥 **Download Power BI file:**  
+➡️ [Download the PBIX file](DATA%20JOBS%20DASHBOARD/Data_Jobs_Dashboard.pbix)
+
+
 ---
 
 ## 📊 Data Jobs Dashboard 2.0 (Single-Page Focus)
