@@ -17,7 +17,7 @@ Designed with **job seekers, career switchers, and early-career data professiona
 
 ## Dashboard File
 
-The Power BI file contains the full dataset: about 2 million job postings from 2023 to July 2025
+The Power BI file contains the full dataset: about 2 million job postings from 2023 to July 2025.
 
 - 🔗 [Download the Power BI file](Data_Jobs_Dashboard.pbix)
 
